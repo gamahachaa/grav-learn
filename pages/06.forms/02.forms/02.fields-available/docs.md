@@ -693,6 +693,7 @@ header.newField:
 | :-----     | :-----                                              |
 | `options`  | An array of key-value options that will be allowed. |
 | `multiple` | Allow the form to accept multiple values.           |
+| `placeholder` | Sets the default non selectable value (for instructions) |
 [/div]
 
 [div class="table"]
