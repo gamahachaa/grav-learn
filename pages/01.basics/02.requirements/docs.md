@@ -153,6 +153,7 @@ Another option if you primarily work with just creating content, is to use a ded
 3. [MarkDrop](http://culturezoo.com/markdrop/) - MacOS - $5, but super clean and Droplr support built-in.
 4. [MarkdownPad](http://markdownpad.com/) - Windows - Free and Pro versions. Even has YAML front-matter support. An excellent solution for Windows users.
 5. [Mark Text](https://marktext.github.io/website/) - Free, open source Markdown editor for Windows / Linux / MacOS.
+6. [Typora](https://typora.io/) - Free during beta. Available for sindows, linux mac OS X 10.13.4 and later.
 
 ### FTP Clients
 
